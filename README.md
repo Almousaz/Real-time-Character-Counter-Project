@@ -9,4 +9,4 @@ Our project aims to create a real-time character counter using JavaScript. It fe
 
 
 ## demo
-click [here]() to see demo
+click [here](https://almousaz.github.io/Real-time-Character-Counter-Project/) to see demo
